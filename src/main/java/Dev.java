@@ -4,5 +4,6 @@ public class Dev {
         System.out.println("master");
         void test("master");
          void test("bracnh1");
+        void test2("bracnh1");
     }
 }
