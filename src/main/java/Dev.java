@@ -3,5 +3,6 @@ public class Dev {
         System.out.println("dev");
         System.out.println("master");
         void test("master");
+         void test("bracnh1");
     }
 }
